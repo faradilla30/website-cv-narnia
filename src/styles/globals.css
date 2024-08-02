@@ -20,11 +20,3 @@ body{
     '2xl' : '1320xl',
 }
 
-.hamburger div {
-    width: 25px;
-    height: 2px;
-    background-color: #000;
-    margin:7px;
-    transition: all 0.3s;
-    z-index: 99;
-}
