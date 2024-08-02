@@ -75,7 +75,7 @@ const toggleNavbar = (): void =>{
               <p className="font-medium text-black leading-relaxed">Saya adalah salah satu siswi di SMK TI BALI GLOBAL DENPASAR.</p>
               <p className="font-medium text-black mb-10 leading-relaxed">setelah saya sekolah disana dan masuk kejurusan RPL saya mulai tertarik pada dunia pemprograman, dan memutuskan terjun kedalam dunia pemprograman.</p>
               <a href="#" className="text-base font-semibold text-white bg-sky-950 py-3 px-8 rounded-full 
-                hover:shadow-lg hover:bg-sky-800 transition duration-300 ease-in-out">Hubungi Saya</a>
+                hover:shadow-lg hover:bg-sky-800 transition duration-300 ease-in-out">contack Me</a>
             </div>
             <div className="w-full self-end px-4 lg:w-1/2">
               <div className="mt-10 lg:mt-9 lg:right-0">
@@ -92,10 +92,10 @@ const toggleNavbar = (): void =>{
         <div className="container">
           <div className="flex flex-wrap">
             <div className="w-full px-4 mb-10 lg:w-1/2">
-              <h4 className="font-bold uppercese text-teal-700 text-lg mb-3">Tentang saya</h4>
+              <h4 className="font-bold uppercese text-teal-700 text-lg mb-3">About Me</h4>
               <h2 className="font-bold text-slate-950 text-3xl mb-5 max-w-md lg:text-4xl">Yuk ketahui tentang LATAR BELAKANG Nia!!</h2>
-              <p className="font=medium text-base text-black max-w-xl">Namaku narnia kalian bisa panggil aku nia, Aku lahir diDenpasar tanggal "30-September-2008" berarti sekarang aku berumur 15thn, dan aku suka banget sama mie (mau mie jenis apapun aku sukaa!!). SALAM KENAL YAA  AKU NIA!!👋</p>
-              <p className="font=medium text-base text-black max-w-xl"></p>
+              <p className="font=medium text-base text-black max-w-xl">Namaku narnia kalian bisa panggil aku nia, Aku lahir diDenpasar tanggal &quot;30-September-2008&quot; berarti sekarang aku berumur 15thn, dan aku suka banget sama mie (mau mie jenis apapun aku sukaa!!). SALAM KENAL YAA  AKU NIA!!👋</p>
+              
             </div>
             <div className="w-full px-4 lg:w-1/2"> 
               <h3 className="font-semibold text-slate-950 text-3xl mb-5 lg:text-3xl lg:pt-10">Ayo berteman dengan Nia!</h3>
@@ -161,7 +161,7 @@ const toggleNavbar = (): void =>{
             <div className="max-w-xl mx-auto text-center mb-16">
               <h4 className="maxfont-semibold text-lg text-teal-700 mb-2">Portfolio</h4>
               <h2 className="font-bold text-black text-3xl mb-4">Project Terbaru</h2>
-              <p className="font-medium text-md text-slate-600">Ini adalah beberapa program pengambilan nilai yang saya lalukan di sekolah 'SMK TI BALI GLOBAL DENPASAR'.</p>
+              <p className="font-medium text-md text-slate-600">Ini adalah beberapa program pengambilan nilai yang saya lalukan di sekolah &quot;SMK TI BALI GLOBAL DENPASAR&quot;.</p>
             </div>
           </div>
 
@@ -174,8 +174,7 @@ const toggleNavbar = (): void =>{
               <h3 className="font-semibold text-xl text-black mt5 mb-3">ONLINE SHOP KOSMETIK</h3>
               <p className="font-medium text-base text-slate-600">Ini adalah program yang saya buat dengan Dev C++.
                 Program ini tentang pembelian kosmetik secara online, dan jika berlangganan akan mendapatkan potongan harga,
-                tetapi jika tidak berlangganan tidak dapat potongan harga.
-              </p>
+                tetapi jika tidak berlangganan tidak dapat potongan harga.</p>
             </div>
 
             {/* tgs2 */}
@@ -186,8 +185,7 @@ const toggleNavbar = (): void =>{
               <h3 className="font-semibold text-xl text-black mt5 mb-3">FRUIT QUIZ #TEBAK GAMBAR</h3>
               <p className="font-medium text-base text-slate-600">Ini adalah game mobile yang saya buat menggunakan aplikasi ADOBE.
                 Game ini tentang tebak gambar/puzzle jika benar poin akan bertambah dan next keberikutnya,
-                tetapi jika salah poin akan berkurang dan tidak akan next hingga waktu abis,jika ke skip maka nilai akan dianggap kosong. 
-              </p>
+                tetapi jika salah poin akan berkurang dan tidak akan next hingga waktu abis,jika ke skip maka nilai akan dianggap kosong.</p>
             </div>
 
             {/* tgs3 */}
@@ -199,8 +197,7 @@ const toggleNavbar = (): void =>{
               <p className="font-medium text-base text-slate-600">Ini adalah game mobile yang saya buat menggunakan ADOBE.
                 Game ini tentang berhitung,bisa berhitung buah atau berhitung biji buah tergantung perintah tersebut.
                 jika benar poin akan bertambah dan next keberikutnya,tetapi jika salah poin akan berkurang dan tidak 
-                akan next hingga waktu abis,jika ke skip maka nilai akan dianggap kosong.
-              </p>
+                akan next hingga waktu abis,jika ke skip maka nilai akan dianggap kosong.</p>
             </div>
 
             {/* tgs4 */}
@@ -211,8 +208,7 @@ const toggleNavbar = (): void =>{
               <h3 className="font-semibold text-xl text-black mt5 mb-3">SHOOTING WITH TANKS</h3>
               <p className="font-medium text-base text-slate-600">Ini adalah game yang saya buat dengan ADOBE FLASH.
                 Game ini tentang tank yang menembak mobil,setiap naik level pelurupun akan bertambah,
-                tetapi jika dalam satu level terus menerun peluru meleset maka akan game over karna waktu abis.
-              </p>
+                tetapi jika dalam satu level terus menerun peluru meleset maka akan game over karna waktu abis.</p>
             </div>
           </div>
         </div>
@@ -258,14 +254,14 @@ const toggleNavbar = (): void =>{
         <div className="container">
           <div className="flex flex-wrap">
             <div className="w-full px-4 mb-12 text-slate-300 font-medium">
-              <h2 className="font-bold text-4xl text-white mb-5">WPU</h2>
-              <h3 className="font-bold text-2xl mb-2">Hubungi Saya</h3>
+              <h2 className='block font-bold text-slate-600 text-4xl mt-1 lg:text-5xl'>NF</h2>
+              <h3 className="font-bold text-2xl mb-2">Contact Me</h3>
               <p>narniafaradilla411@gmail.com</p>
               <p>Jl.Gn.Muliawan Timur No.2</p>
               <p>bali,denpasar</p>
             </div>
             <div className="w-full px-4 mb-12 md:w-1/3">
-              <h3 className="font-semibold text-xl text-white mb-5">Kategori Tulisan</h3>
+              <h3 className="font-semibold text-xl text-white mb-5">writing category</h3>
               <ul className="text-slate-300">
                 <li>
                   <a href="#" className="inline-block text-base hover:text-teal-700" mb-3>Programing</a>
@@ -280,13 +276,13 @@ const toggleNavbar = (): void =>{
             </div>
 
             <div className="w-full px-4 mb-12 md:w-1/3">
-              <h3 className="font-semibold text-xl text-white mb-5">tautan</h3>
+              <h3 className="font-semibold text-xl text-white mb-5">Link</h3>
               <ul className="text-slate-300">
                 <li>
-                  <a href="#home" className="inline-block text-base hover:text-teal-700" mb-3>Beranda</a>
+                  <a href="#home" className="inline-block text-base hover:text-teal-700" mb-3>Home</a>
                 </li>
                 <li>
-                  <a href="#about" className="inline-block text-base hover:text-teal-700" mb-3>Tentang saya </a>
+                  <a href="#about" className="inline-block text-base hover:text-teal-700" mb-3>Aboute Me </a>
                 </li>
                 <li>
                   <a href="#portfolio" className="inline-block text-base hover:text-teal-700" mb-3>Portfolio</a>
